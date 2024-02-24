@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>MY RESUME</title>
+</head>
+
+
+<body>
+  <img src="https://media.licdn.com/dms/image/D4E03AQEo9zULZGrdig/profile-displayphoto-shrink_800_800/0/1690371916862?e=1713398400&v=beta&t=iWeZJQu_xgMQmCRepkWlX_ONE4uTq8G_gGBiZMw58AE"
+       width="300" alt="mp">
+  <h1>
+   MOHNISH PATHAK
+  </h1>
+  <h2>
+    ACADEMIC CV
+  </h2>
+  <hr>
+   <p>
+     1404 Light bridge Hiranandani Meadows
+     <br>
+     mohnishpathak.2011@gmail.com<br>
+     +918369200522
+       <hr>
+    </p>
+
+  <h3>
+    EDUCATION
+     </h3>
+    <hr>
+   <h4>
+     Smt. Sulochanadevi Singhania School(2013-2021)
+      </h4>
+    <ul>
+      <li>Maths</li>
+      <li>Communication Skills</li>
+      <li>Language Skills</li>
+      <li>Scouts</li>
+      </ul>
+      <hr>
+     <h3>Skills
+
+    <hr>
+      <ol>
+        <li>Java
+          <Li>C++
+            <li>HTML
+              <li>Basketball
+
+
+
+
+</body>
+
+</html>
